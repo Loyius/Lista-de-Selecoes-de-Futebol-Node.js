@@ -1,12 +1,13 @@
 # Simulação de Seleção de Futebol com Node.js e MySQL
 
-Este projeto utiliza **Node.js** para criar uma aplicação que faz uma conexão direta com o **MySQL Workbench** utilizando **Express.js**. O sistema permite o envio de credenciais de seleções de futebol em formato **JSON** para serem armazenadas no banco de dados.
+Neste projeto utilizei o Node.js para criar uma aplicação que faz uma conexão direta com o MySQL Workbench utilizando Express.js para manipulação de requisições e respostas HTTP. O sistema permite o envio de credenciais de seleções de futebol em formato JSON para serem armazenadas no banco de dados. Para fins de teste do envio das credenciais JSON, utilizei o Insomnia.
 
 ## 🚀 Tecnologias Utilizadas
 
 - **Node.js**
 - **Express.js**
 - **MySQL**
+- **Insomnia(simulação do frontend)**
 
 ## 📦 Instalação das Dependências
 
